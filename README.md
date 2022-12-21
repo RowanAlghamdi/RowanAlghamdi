@@ -1,6 +1,8 @@
 
 <h1 align="center">Bonjour🙈 , I'm Rowan </h1>
 <h3 align="center">Recent Physic and Mathematics graduate from USYD 🇦🇺 and am passionate about working with data 👩🏻‍💻 .</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118812969/208983514-fb8d29bd-aad0-4a6e-a6e5-4b241cd0b555.gif">
+
 
 - 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca)
 
@@ -24,4 +26,4 @@
 <a align="left"> <a href="https://posit.co" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="R" width="40" height="40"/></a> </p>
 
 
-
+  <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/  -->
