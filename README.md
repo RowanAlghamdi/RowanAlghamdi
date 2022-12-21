@@ -1,12 +1,12 @@
 
 <h1 align="center">Bonjour🙈 , I'm Rowan </h1>
-<h3 align="center">Recent Physic and Mathematics graduate from USYD and am passionate about working with data .</h3>
+<h3 align="center">Recent Physic and Mathematics graduate from USYD 🇦🇺 and am passionate about working with data 👩🏻‍💻 .</h3>
 
 - 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca)
 
-- 🤖 I’m currently learning **Python**
+- 🤖 I’m currently learning **Python** 🐍
 
-- 🌸 All of my projects are available at [https://rowanalghamdi.github.io](https://rowanalghamdi.github.io)
+- 🌸 Some of my projects are available in the [Repositories](https://github.com/RowanAlghamdi?tab=repositories)
 
 - ☎️ How to reach me **Rowan.ghalib@gmail.com**
 
