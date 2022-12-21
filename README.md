@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/118812969/208985272-ee0a8a5b-ab31-4fa1-a6cf-f2f1e6a336a2.gif)](https://rishavchanda.io)
 
 <h1 align="center">Bonjour🙈 , I'm Rowan </h1>
-<h3 align="center">Recent Physic and Mathematics graduate from USYD 🇦🇺 and am passionate about working with data 👩🏻‍💻 .</h3>
+<h3 align="center">Recent Physic and Mathematics graduate from USYD 🇦🇺 & passionate about working with data 👩🏻‍💻 .</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118812969/208983514-fb8d29bd-aad0-4a6e-a6e5-4b241cd0b555.gif">
 
 
