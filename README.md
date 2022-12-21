@@ -2,7 +2,7 @@
 
 <h1 align="center">Bonjour🙈 , I'm Rowan </h1>
 <h3 align="center">Recent Physic and Mathematics graduate from USYD 🇦🇺 & passionate about working with data 👩🏻‍💻 .</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118812969/208983514-fb8d29bd-aad0-4a6e-a6e5-4b241cd0b555.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118812969/208989725-2cc37a8f-d3aa-4393-a69b-0f3881440c74.gif">
 
 
 - 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca) 🇨🇦
