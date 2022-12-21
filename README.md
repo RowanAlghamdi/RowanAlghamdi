@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rowan </h1>
+<h1 align="center">Bonjour🙈 , I'm Rowan </h1>
 <h3 align="center">Recent Physic and Mathematics graduate from USYD and am passionate about working with data .</h3>
 
 - 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca)
