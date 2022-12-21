@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118812969/208983514-fb8d29bd-aad0-4a6e-a6e5-4b241cd0b555.gif">
 
 
-- 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca)
+- 📖 I'm enrolled in Key Capabilities in Data Science at [UBC](https://extendedlearning.ubc.ca) 🇨🇦
 
 - 🤖 I’m currently learning **Python** 🐍
 
